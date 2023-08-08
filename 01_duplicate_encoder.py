@@ -6,7 +6,7 @@ def duplicate_encode(word):
     for i in range(length):
         letter_count =  (word.count(word[i]))
         if letter_count >1:
-            return True
+            return "Duplicate"
         else:
             return "no duplicate"
         
