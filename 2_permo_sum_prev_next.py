@@ -1,3 +1,5 @@
+# ------------ @Permo ----------------
+
 #this function adds the ten previous number and next number in a range of 10
 def prev_next():
     #create a for loop with a range of 10 numbers

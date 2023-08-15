@@ -1,3 +1,5 @@
+# ------------ @Permo ----------------
+
 #function to print strings from their index
 def string_index(my_string):
     #create a loop to iterate the string
