@@ -9,6 +9,7 @@ def duplicate(list):
     if list[0] == list[length-1]:
         return True
     else:
+        #if the above condition is not met then return false
         return False
     
 #call the function 
