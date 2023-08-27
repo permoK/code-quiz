@@ -1,0 +1,11 @@
+#include "main.h"
+
+
+int main(void)
+{
+	char *str = "Emma";
+
+
+	count_substring(str);
+	return (0);
+}

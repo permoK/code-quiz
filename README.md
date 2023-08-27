@@ -1,3 +1,57 @@
+# Code Questions Repository
+
+Welcome to the Code Questions Repository! 🚀 This repository contains solutions to code questions in both Python and C programming languages. The questions are sourced from the [PyNative](https://pynative.com/) website and are posted in the Tech News WhatsApp group.
+
+## Structure
+
+Each friend has their own directory containing their question solutions. This makes it organized and easy to navigate through. Below is an overview of the repository structure:
+
+Certainly! Here's a sample README.md file for your repository that covers the details you mentioned:
+
+markdown
+
+# Code Questions Repository
+
+Welcome to the Code Questions Repository! 🚀 This repository contains solutions to code questions in both Python and C programming languages. The questions are sourced from the [PyNative](https://pynative.com/) website and are posted in the Tech News WhatsApp group.
+
+## Structure
+
+Each friend has their own directory containing their question solutions. This makes it organized and easy to navigate through. Below is an overview of the repository structure:
+
+📂 Code_Questions_Repo
+│
+├── 📂 Friend_1
+│ ├── 📂 Question_1
+│ ├── 📂 Question_2
+│ └── ...
+│
+├── 📂 Friend_2
+│ ├── 📂 Question_1
+│ ├── 📂 Question_2
+│ └── ...
+│
+└── ...
+
+
+2. Navigate to the respective friend's directory and explore the question solutions.
+
+## Contributing
+
+We welcome contributions from everyone! If you have new solutions or want to improve existing ones, feel free to submit a pull request. Please follow the contribution guidelines for smooth collaboration.
+
+## Credits
+
+- Original questions from [PyNative](https://pynative.com/)
+- Inspiration from the Tech News WhatsApp group
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+Let's have fun coding and learning together! 😄👩‍💻👨‍💻
+
+
+
 # code-quiz
 A collaboration of solving different logical questions using different languages with the main of them being C and python
 
