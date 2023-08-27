@@ -56,7 +56,7 @@ Let's have fun coding and learning together! 😄👩‍💻👨‍💻
 A collaboration of solving different logical questions using different languages with the main of them being C and python
 
 
-*01 dublicate encode
+*01 duplicate encode
 
 The goal of this exercise is to convert a string to a new string where each character in the new string is "(" if that character appears only once in the original string, or ")" if that character appears more than once in the original string. Ignore capitalization when determining if a character is a duplicate.
 
