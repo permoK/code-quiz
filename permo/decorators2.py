@@ -15,7 +15,7 @@ def trigger(f): #3
 
 
 #add the decorator 
-@trigger  #2
+@trigger  #2 finds this decorator
 def hello(): #define a function  #5
     print("hello world")
 
